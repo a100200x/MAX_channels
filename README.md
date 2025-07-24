@@ -1,5 +1,9 @@
 # MAX_channels
-Каналы MAX
+Каталог каналов, чатов, ботов max.net.ru 
+
+Приложение в MAX https://max.ru/sawserg_bot?startap
+
+СПИСОК КАНАЛОВ
 
 Азамат Мусагалиев https://max.ru/azabraza84
 
