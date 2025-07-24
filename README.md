@@ -10,6 +10,8 @@
 
 Дзен https://max.ru/dzen
 
+ТехНОВОСТИ https://max.ru/join/6dDuf8AHCJcYTbsdHySwebN9INSp1AllJTkdc_gEZX0
+
 СтарХит https://max.ru/starhit
 
 PEOPLETALK https://max.ru/peopletalk
