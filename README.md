@@ -1,7 +1,8 @@
 # MAX_channels
-Каталог каналов, чатов, ботов max.net.ru 
+Каталог каналов, чатов, ботов https://max.net.ru 
 
 Приложение в MAX https://max.ru/sawserg_bot?startap
+
 
 СПИСОК КАНАЛОВ
 
