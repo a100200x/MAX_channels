@@ -2,6 +2,7 @@
 Каналы MAX
 
 azabraza84 Азамат Мусагалиев https://max.ru/azabraza84
+
 dzen Дзен https://max.ru/dzen
 starhit СтарХит https://max.ru/starhit
 peopletalk PEOPLETALK https://max.ru/peopletalk
